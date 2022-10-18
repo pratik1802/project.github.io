@@ -1,0 +1,45 @@
+.navbar ul li a{
+    color:blue !important;
+}
+.carousel-item img {
+height:92vh;   
+
+}
+/* .navbar-brand{
+    border: 5px solid black;
+} */
+.services1{
+    /* border: 1px solid red; */
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card img{
+    height:15rem;
+    
+}
+.card{
+border-radius: 10px 20px 30px 20px;
+}
+
+
+.card:hover{
+    box-shadow: 10px 10px 12px black;
+    transform:rotate(12deg);
+    transition: all ease .3s;
+    cursor: pointer;
+    margin-top: -5rem;
+    
+}
+.link{
+    color:aqua;
+    
+}
+.first{
+    color:blueviolet;
+}
+.last{
+    color:blueviolet;   
+}
+
